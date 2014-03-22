@@ -1,0 +1,13 @@
+Dear {name}
+
+{name}({schoolID}) homework score:
+
+{workname}: {score}
+
+Note:
+
+If you have any problems with the score, please contact your TA.
+Thanks.
+
+TAs:  Yang Jin (靳阳), jyjz2008@sjtu.edu.cn
+      Xiaoming Ma (马晓明), xinj2012sjtu@sjtu.edu.cn
